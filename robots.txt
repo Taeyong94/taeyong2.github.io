@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://taeyong2.github.io/sitemap.xml
+Sitemap: https://taeyong94.github.io/sitemap.xml
