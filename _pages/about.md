@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a postdoctoral researcher in Professor Chunsheng Wang’s group (https://cswang.umd.edu/) at the University of Maryland. Prior to joining the University of Maryland, I worked as a postdoctoral researcher in the School of Chemical and Biological Engineering at Seoul National University, supervised by Professor Jang Wook Choi (https://mest.snu.ac.kr/). I received my Ph.D. and B.S. degrees in Energy Engineering from Ulsan National Institute of Science and Technology (UNIST), advised by Professor Jaephil Cho (https://scholar.google.com/citations?user=GN3C9q4AAAAJ&hl=ko).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research began with a deep understanding of silicon (Si) anodes, particularly through the development of bottom-up Si materials using chemical vapor deposition (CVD) techniques. Since then, I have worked extensively on advancing Si anode technologies across multiple domains, including surface coatings, pre-lithiation strategies, electrolyte design, and all-solid-state batteries. In addition to Si anodes, I have also developed broad expertise in battery systems involving, such as lithium metal, sulfur cathodes, and high-nickel layered oxide cathodes.
