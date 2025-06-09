@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Postdoc researcher at University of Maryland
+subtitle: <p>Postdoc researcher at University of Maryland, College Park
 
 profile:
   align: right
